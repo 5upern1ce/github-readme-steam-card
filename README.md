@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/github/license/FN-FAL113/github-readme-steam-status"/> 
   </a> 
 </p>
+s
 
 <p align="center">
     <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198085145110"/>
